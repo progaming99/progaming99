@@ -1,5 +1,5 @@
 ## Hello Wolrd! I'm Andika 👋
-
+![gundam](img/github-header-image.png)
 <!--
 **progaming99/progaming99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
