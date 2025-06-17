@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on **Semarang**
 - 🌱 I’m currently learning **Laravel Framework**
 - 🥱🥱🥱
-![](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmwxdmVjZnRkYXZ4cWl3cWZ6NjA4emlrczRwOXlmaWk2bjB2eG4yYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XbJYBCi69nyVOffLIU/giphy.gif)
+![](https://media.giphy.com/media/XbJYBCi69nyVOffLIU/giphy.gif)
