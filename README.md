@@ -18,4 +18,5 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on **Semarang**
 - 🌱 I’m currently learning **Laravel Framework**
 - 🥱🥱🥱
+
 ![daily](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmFkeXk2ZWJyeW56eHg0bGpyZGpsMXlhcmI0Y2g2ZTQ2amhheXJvcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0iW1bR2EGdRBZ4ipWc/giphy.gif)
