@@ -37,4 +37,16 @@ Here are some ideas to get you started:
 [![](https://visitcount.itsvg.in/api?id=progaming99&icon=2&color=4)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<img src="https://raw.githubusercontent.com/progaming99/progaming99/output/snake.svg" alt="Snake animation" />
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/progaming99/progaming99/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/progaming99/progaming99/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/progaming99/progaming99/output/pacman-contribution-graph.svg">
+</picture>
+
+###
 ![daily](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmFkeXk2ZWJyeW56eHg0bGpyZGpsMXlhcmI0Y2g2ZTQ2amhheXJvcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0iW1bR2EGdRBZ4ipWc/giphy.gif)
