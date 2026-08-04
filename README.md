@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on **Bandung**
+- 🔭 I’m currently working on **Jakarta**
 - 🌱 I’m currently learning **Laravel Framework**
 - 🥱🥱🥱
 ### 🌐 Socials:
